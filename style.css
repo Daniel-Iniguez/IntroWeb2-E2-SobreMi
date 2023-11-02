@@ -1,0 +1,17 @@
+body{
+    
+    background: linear-gradient(45deg,#070707,#530502,#ffffff);
+    color: #fff;
+}
+
+div,h1{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+img{
+    float: left; /*Utilizamos float para alinear la imagen a la izquierda*/
+    margin-right: 20px; /*Espacio entre la imagen y el texto*/
+    width: 200px;
+    height: auto;
+}
